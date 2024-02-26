@@ -1,0 +1,6 @@
+name: DelayCanhao
+version: '${version}'
+main: com.dev.shau.delaycanhao.DelayCanhao
+softdepend: [HolographicDisplays]
+commands:
+  giverelogio:
